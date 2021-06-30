@@ -1,8 +1,8 @@
-56225M	/home/c.c1045890/
+56730M	/home/c.c1045890/
 16795M	/home/c.c1045890/servicedesk_tests
 16088M	/home/c.c1045890/.conda
 7127M	/home/c.c1045890/ansys
-2942M	/home/c.c1045890/bench
+3087M	/home/c.c1045890/bench
 2486M	/home/c.c1045890/MG_tests
 2216M	/home/c.c1045890/git
 1598M	/home/c.c1045890/namd
@@ -12,6 +12,7 @@
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
 456M	/home/c.c1045890/stats
+415M	/home/c.c1045890/.cache
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
 284M	/home/c.c1045890/nvidia
@@ -22,7 +23,6 @@
 96M	/home/c.c1045890/test-dysgu
 58M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
-55M	/home/c.c1045890/.cache
 53M	/home/c.c1045890/.nextflow
 53M	/home/c.c1045890/comsol
 45M	/home/c.c1045890/.cpan
