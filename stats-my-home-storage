@@ -1,8 +1,8 @@
-62046M	/home/c.c1045890/
-19619M	/home/c.c1045890/.conda
+63311M	/home/c.c1045890/
+20623M	/home/c.c1045890/.conda
 16923M	/home/c.c1045890/servicedesk_tests
-7127M	/home/c.c1045890/ansys
-4643M	/home/c.c1045890/bench
+7165M	/home/c.c1045890/ansys
+4645M	/home/c.c1045890/bench
 2486M	/home/c.c1045890/MG_tests
 2296M	/home/c.c1045890/git
 1598M	/home/c.c1045890/namd
@@ -11,13 +11,14 @@
 587M	/home/c.c1045890/.vscode-server
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
+458M	/home/c.c1045890/.cache
 456M	/home/c.c1045890/stats
-415M	/home/c.c1045890/.cache
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
 284M	/home/c.c1045890/nvidia
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
+179M	/home/c.c1045890/.local
 129M	/home/c.c1045890/myapps
 107M	/home/c.c1045890/xalt
 96M	/home/c.c1045890/test-dysgu
@@ -74,7 +75,6 @@
 1M	/home/c.c1045890/ondemand
 1M	/home/c.c1045890/nvvp_workspace
 1M	/home/c.c1045890/low-efficiency-projects
-1M	/home/c.c1045890/.local
 1M	/home/c.c1045890/.jupyter
 1M	/home/c.c1045890/.java
 1M	/home/c.c1045890/.ipython
