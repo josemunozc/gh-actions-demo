@@ -1,9 +1,9 @@
-77640M	/home/c.c1045890/
+77804M	/home/c.c1045890/
 20623M	/home/c.c1045890/.conda
 16923M	/home/c.c1045890/servicedesk_tests
 12088M	/home/c.c1045890/.singularity
 7165M	/home/c.c1045890/ansys
-4825M	/home/c.c1045890/bench
+4819M	/home/c.c1045890/bench
 2486M	/home/c.c1045890/MG_tests
 2296M	/home/c.c1045890/git
 1842M	/home/c.c1045890/transient1
@@ -21,6 +21,7 @@
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
 180M	/home/c.c1045890/.local
+170M	/home/c.c1045890/.torch
 129M	/home/c.c1045890/myapps
 107M	/home/c.c1045890/xalt
 96M	/home/c.c1045890/test-dysgu
@@ -52,7 +53,6 @@
 1M	/home/c.c1045890/.vim
 1M	/home/c.c1045890/valgrind_tests
 1M	/home/c.c1045890/training
-1M	/home/c.c1045890/.torch
 1M	/home/c.c1045890/.texlive2012
 1M	/home/c.c1045890/test_modules
 1M	/home/c.c1045890/tensorflow
