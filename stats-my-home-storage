@@ -1,9 +1,9 @@
-84297M	/home/c.c1045890/
+84087M	/home/c.c1045890/
 23024M	/home/c.c1045890/.conda
 17852M	/home/c.c1045890/servicedesk_tests
 12088M	/home/c.c1045890/.singularity
 7165M	/home/c.c1045890/ansys
-5214M	/home/c.c1045890/bench
+5262M	/home/c.c1045890/bench
 2486M	/home/c.c1045890/MG_tests
 2297M	/home/c.c1045890/git
 1842M	/home/c.c1045890/transient1
@@ -31,8 +31,8 @@
 53M	/home/c.c1045890/comsol
 45M	/home/c.c1045890/.cpan
 43M	/home/c.c1045890/openifs
+41M	/home/c.c1045890/.matlab
 38M	/home/c.c1045890/.gem
-32M	/home/c.c1045890/.matlab
 30M	/home/c.c1045890/.keras
 20M	/home/c.c1045890/.cpdb
 12M	/home/c.c1045890/pyenv-test
