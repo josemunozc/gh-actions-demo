@@ -1,6 +1,6 @@
-84253M	/home/c.c1045890/
+84117M	/home/c.c1045890/
 23024M	/home/c.c1045890/.conda
-17992M	/home/c.c1045890/servicedesk_tests
+17856M	/home/c.c1045890/servicedesk_tests
 12088M	/home/c.c1045890/.singularity
 7165M	/home/c.c1045890/ansys
 5271M	/home/c.c1045890/bench
@@ -66,7 +66,6 @@
 1M	/home/c.c1045890/spark
 1M	/home/c.c1045890/singularity
 1M	/home/c.c1045890/.rstudio-server
-1M	/home/c.c1045890/.rstudio
 1M	/home/c.c1045890/restart-job
 1M	/home/c.c1045890/.R
 1M	/home/c.c1045890/R
