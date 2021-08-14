@@ -1,4 +1,4 @@
-85525M	/home/c.c1045890/
+85561M	/home/c.c1045890/
 23024M	/home/c.c1045890/.conda
 19263M	/home/c.c1045890/servicedesk_tests
 12088M	/home/c.c1045890/.singularity
@@ -9,7 +9,7 @@
 1842M	/home/c.c1045890/transient1
 1598M	/home/c.c1045890/namd
 912M	/home/c.c1045890/starccm+
-878M	/home/c.c1045890/.cache
+879M	/home/c.c1045890/.cache
 611M	/home/c.c1045890/Lammps
 587M	/home/c.c1045890/.vscode-server
 512M	/home/c.c1045890/OpenFOAM
@@ -54,6 +54,7 @@
 1M	/home/c.c1045890/.vim
 1M	/home/c.c1045890/valgrind_tests
 1M	/home/c.c1045890/training
+1M	/home/c.c1045890/.themes
 1M	/home/c.c1045890/.texlive2012
 1M	/home/c.c1045890/test_modules
 1M	/home/c.c1045890/tensorflow
@@ -77,6 +78,7 @@
 1M	/home/c.c1045890/openmp
 1M	/home/c.c1045890/ondemand
 1M	/home/c.c1045890/nvvp_workspace
+1M	/home/c.c1045890/LSPP
 1M	/home/c.c1045890/low-efficiency-projects
 1M	/home/c.c1045890/.jupyter
 1M	/home/c.c1045890/.java
@@ -84,6 +86,7 @@
 1M	/home/c.c1045890/.ipynb_checkpoints
 1M	/home/c.c1045890/intel
 1M	/home/c.c1045890/inputFiles
+1M	/home/c.c1045890/.icons
 1M	/home/c.c1045890/.horovod
 1M	/home/c.c1045890/HarvestYourData2
 1M	/home/c.c1045890/.gnupg
