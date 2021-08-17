@@ -1,9 +1,9 @@
-85561M	/home/c.c1045890/
+85564M	/home/c.c1045890/
 23024M	/home/c.c1045890/.conda
-19263M	/home/c.c1045890/servicedesk_tests
+19264M	/home/c.c1045890/servicedesk_tests
 12088M	/home/c.c1045890/.singularity
 7165M	/home/c.c1045890/ansys
-5271M	/home/c.c1045890/bench
+5273M	/home/c.c1045890/bench
 2486M	/home/c.c1045890/MG_tests
 2297M	/home/c.c1045890/git
 1842M	/home/c.c1045890/transient1
@@ -101,4 +101,5 @@
 1M	/home/c.c1045890/.cmake
 1M	/home/c.c1045890/.cfx
 1M	/home/c.c1045890/bin
+1M	/home/c.c1045890/awk-tutorial
 1M	/home/c.c1045890/.ansys
