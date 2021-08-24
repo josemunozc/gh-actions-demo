@@ -1,4 +1,4 @@
-86863M	/home/c.c1045890/
+86955M	/home/c.c1045890/
 23185M	/home/c.c1045890/.conda
 19420M	/home/c.c1045890/servicedesk_tests
 12088M	/home/c.c1045890/.singularity
@@ -9,7 +9,7 @@
 1842M	/home/c.c1045890/transient1
 1598M	/home/c.c1045890/namd
 912M	/home/c.c1045890/starccm+
-881M	/home/c.c1045890/.cache
+896M	/home/c.c1045890/.cache
 611M	/home/c.c1045890/Lammps
 587M	/home/c.c1045890/.vscode-server
 512M	/home/c.c1045890/OpenFOAM
@@ -25,6 +25,7 @@
 129M	/home/c.c1045890/myapps
 107M	/home/c.c1045890/xalt
 96M	/home/c.c1045890/test-dysgu
+80M	/home/c.c1045890/deep.learning
 58M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
 53M	/home/c.c1045890/.nextflow
@@ -45,7 +46,6 @@
 5M	/home/c.c1045890/.cpanm
 4M	/home/c.c1045890/perl5
 3M	/home/c.c1045890/relion
-3M	/home/c.c1045890/deep.learning
 3M	/home/c.c1045890/.allinea
 2M	/home/c.c1045890/.mcrCache8.4
 2M	/home/c.c1045890/.config
