@@ -1,7 +1,7 @@
-79373M	/home/c.c1045890/
-19428M	/home/c.c1045890/servicedesk_tests
-13226M	/home/c.c1045890/.conda
-12088M	/home/c.c1045890/.singularity
+80341M	/home/c.c1045890/
+19437M	/home/c.c1045890/servicedesk_tests
+13887M	/home/c.c1045890/.singularity
+12381M	/home/c.c1045890/.conda
 8485M	/home/c.c1045890/bench
 7165M	/home/c.c1045890/ansys
 2486M	/home/c.c1045890/MG_tests
@@ -43,6 +43,7 @@
 8M	/home/c.c1045890/.emacs.d
 6M	/home/c.c1045890/abaqus
 5M	/home/c.c1045890/quantum-espresso
+5M	/home/c.c1045890/.eclipse
 5M	/home/c.c1045890/.cpanm
 4M	/home/c.c1045890/perl5
 3M	/home/c.c1045890/relion
@@ -96,6 +97,7 @@
 1M	/home/c.c1045890/.elinks
 1M	/home/c.c1045890/Downloads
 1M	/home/c.c1045890/Documents
+1M	/home/c.c1045890/.dgl
 1M	/home/c.c1045890/Desktop
 1M	/home/c.c1045890/conda-bld
 1M	/home/c.c1045890/.comsol
