@@ -1,8 +1,7 @@
-95445M	/home/c.c1045890/
-25838M	/home/c.c1045890/.conda
-19450M	/home/c.c1045890/servicedesk_tests
-15517M	/home/c.c1045890/.singularity
-8485M	/home/c.c1045890/bench
+72371M	/home/c.c1045890/
+19451M	/home/c.c1045890/servicedesk_tests
+18653M	/home/c.c1045890/bench
+8112M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 2486M	/home/c.c1045890/MG_tests
 2297M	/home/c.c1045890/git
@@ -66,6 +65,7 @@
 1M	/home/c.c1045890/.stata15
 1M	/home/c.c1045890/.ssh
 1M	/home/c.c1045890/spark
+1M	/home/c.c1045890/.singularity
 1M	/home/c.c1045890/singularity
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/restart-job
