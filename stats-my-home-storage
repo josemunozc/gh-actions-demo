@@ -1,5 +1,5 @@
-79440M	/home/c.c1045890/
-24988M	/home/c.c1045890/bench
+79485M	/home/c.c1045890/
+25006M	/home/c.c1045890/bench
 20184M	/home/c.c1045890/servicedesk_tests
 8112M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
@@ -34,6 +34,7 @@
 41M	/home/c.c1045890/.matlab
 38M	/home/c.c1045890/.gem
 30M	/home/c.c1045890/.keras
+28M	/home/c.c1045890/.comsol
 20M	/home/c.c1045890/.cpdb
 12M	/home/c.c1045890/pyenv-test
 12M	/home/c.c1045890/.nv
@@ -47,6 +48,7 @@
 4M	/home/c.c1045890/perl5
 3M	/home/c.c1045890/relion
 3M	/home/c.c1045890/.allinea
+2M	/home/c.c1045890/ondemand
 2M	/home/c.c1045890/.mcrCache8.4
 2M	/home/c.c1045890/.config
 1M	/home/c.c1045890/.zinc
@@ -77,7 +79,6 @@
 1M	/home/c.c1045890/.parallel
 1M	/home/c.c1045890/.oracle_jre_usage
 1M	/home/c.c1045890/openmp
-1M	/home/c.c1045890/ondemand
 1M	/home/c.c1045890/nvvp_workspace
 1M	/home/c.c1045890/LSPP
 1M	/home/c.c1045890/low-efficiency-projects
@@ -100,7 +101,6 @@
 1M	/home/c.c1045890/.dgl
 1M	/home/c.c1045890/Desktop
 1M	/home/c.c1045890/conda-bld
-1M	/home/c.c1045890/.comsol
 1M	/home/c.c1045890/.cmake
 1M	/home/c.c1045890/.cfx
 1M	/home/c.c1045890/bin
