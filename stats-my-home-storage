@@ -1,5 +1,5 @@
-92420M	/home/c.c1045890/
-28235M	/home/c.c1045890/bench
+92422M	/home/c.c1045890/
+28237M	/home/c.c1045890/bench
 27566M	/home/c.c1045890/servicedesk_tests
 8112M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
@@ -43,8 +43,8 @@
 12M	/home/c.c1045890/pyenv-test
 12M	/home/c.c1045890/.nv
 10M	/home/c.c1045890/gamess_scr
+9M	/home/c.c1045890/matlab
 9M	/home/c.c1045890/.eclipse
-8M	/home/c.c1045890/matlab
 8M	/home/c.c1045890/.emacs.d
 6M	/home/c.c1045890/abaqus
 5M	/home/c.c1045890/quantum-espresso
@@ -59,7 +59,6 @@
 1M	/home/c.c1045890/.vnc
 1M	/home/c.c1045890/.vim
 1M	/home/c.c1045890/valgrind_tests
-1M	/home/c.c1045890/training_stats
 1M	/home/c.c1045890/training
 1M	/home/c.c1045890/.themes
 1M	/home/c.c1045890/.texlive2012
