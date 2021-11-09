@@ -1,13 +1,13 @@
-85880M	/home/c.c1045890/
-28354M	/home/c.c1045890/bench
-28167M	/home/c.c1045890/servicedesk_tests
+86989M	/home/c.c1045890/
+28863M	/home/c.c1045890/bench
+28764M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 4171M	/home/c.c1045890/.singularity
 2486M	/home/c.c1045890/MG_tests
-2438M	/home/c.c1045890/git
+2439M	/home/c.c1045890/git
 1842M	/home/c.c1045890/transient1
 1598M	/home/c.c1045890/namd
-1167M	/home/c.c1045890/.cache
+1170M	/home/c.c1045890/.cache
 1160M	/home/c.c1045890/.vscode-server
 912M	/home/c.c1045890/starccm+
 670M	/home/c.c1045890/stats
@@ -112,3 +112,4 @@
 1M	/home/c.c1045890/arcca-python
 1M	/home/c.c1045890/arbiter2
 1M	/home/c.c1045890/.ansys
+1M	/home/c.c1045890/abaqus-test
