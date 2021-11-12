@@ -1,5 +1,5 @@
-87064M	/home/c.c1045890/
-28863M	/home/c.c1045890/bench
+87478M	/home/c.c1045890/
+29264M	/home/c.c1045890/bench
 28764M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 4171M	/home/c.c1045890/.singularity
@@ -40,6 +40,7 @@
 29M	/home/c.c1045890/.comsol
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
+13M	/home/c.c1045890/training
 12M	/home/c.c1045890/pyenv-test
 12M	/home/c.c1045890/.nv
 10M	/home/c.c1045890/gamess_scr
@@ -61,7 +62,6 @@
 1M	/home/c.c1045890/.vnc
 1M	/home/c.c1045890/.vim
 1M	/home/c.c1045890/valgrind_tests
-1M	/home/c.c1045890/training
 1M	/home/c.c1045890/.themes
 1M	/home/c.c1045890/.texlive2012
 1M	/home/c.c1045890/test_modules
