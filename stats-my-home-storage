@@ -1,4 +1,4 @@
-86423M	/home/c.c1045890/
+88251M	/home/c.c1045890/
 29367M	/home/c.c1045890/bench
 27573M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
@@ -6,8 +6,9 @@
 2486M	/home/c.c1045890/MG_tests
 2439M	/home/c.c1045890/git
 1842M	/home/c.c1045890/transient1
+1771M	/home/c.c1045890/.conda
 1598M	/home/c.c1045890/namd
-1200M	/home/c.c1045890/.cache
+1211M	/home/c.c1045890/.cache
 1160M	/home/c.c1045890/.vscode-server
 912M	/home/c.c1045890/starccm+
 670M	/home/c.c1045890/stats
@@ -16,18 +17,17 @@
 496M	/home/c.c1045890/GamessUS
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
+301M	/home/c.c1045890/.local
 284M	/home/c.c1045890/nvidia
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
 206M	/home/c.c1045890/.nextflow
-182M	/home/c.c1045890/.local
 170M	/home/c.c1045890/.torch
 129M	/home/c.c1045890/myapps
 120M	/home/c.c1045890/R
 107M	/home/c.c1045890/xalt
 96M	/home/c.c1045890/test-dysgu
 80M	/home/c.c1045890/deep.learning
-74M	/home/c.c1045890/.conda
 58M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
 53M	/home/c.c1045890/comsol
@@ -52,8 +52,8 @@
 5M	/home/c.c1045890/.cpanm
 4M	/home/c.c1045890/perl5
 3M	/home/c.c1045890/relion
+3M	/home/c.c1045890/ondemand
 3M	/home/c.c1045890/.allinea
-2M	/home/c.c1045890/ondemand
 2M	/home/c.c1045890/.mcrCache8.4
 2M	/home/c.c1045890/.config
 1M	/home/c.c1045890/.zinc
