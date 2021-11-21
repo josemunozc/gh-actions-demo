@@ -1,14 +1,14 @@
-88251M	/home/c.c1045890/
+90658M	/home/c.c1045890/
 29367M	/home/c.c1045890/bench
 27573M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 4171M	/home/c.c1045890/.singularity
+4148M	/home/c.c1045890/.conda
 2486M	/home/c.c1045890/MG_tests
 2439M	/home/c.c1045890/git
 1842M	/home/c.c1045890/transient1
-1771M	/home/c.c1045890/.conda
 1598M	/home/c.c1045890/namd
-1211M	/home/c.c1045890/.cache
+1212M	/home/c.c1045890/.cache
 1160M	/home/c.c1045890/.vscode-server
 912M	/home/c.c1045890/starccm+
 670M	/home/c.c1045890/stats
@@ -28,6 +28,7 @@
 107M	/home/c.c1045890/xalt
 96M	/home/c.c1045890/test-dysgu
 80M	/home/c.c1045890/deep.learning
+59M	/home/c.c1045890/.keras
 58M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
 53M	/home/c.c1045890/comsol
@@ -36,7 +37,6 @@
 41M	/home/c.c1045890/.wine
 41M	/home/c.c1045890/.matlab
 38M	/home/c.c1045890/.gem
-30M	/home/c.c1045890/.keras
 29M	/home/c.c1045890/.comsol
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
