@@ -1,14 +1,13 @@
-92078M	/home/c.c1045890/
-30787M	/home/c.c1045890/bench
-27573M	/home/c.c1045890/servicedesk_tests
+88504M	/home/c.c1045890/
+31223M	/home/c.c1045890/bench
+27691M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 4171M	/home/c.c1045890/.singularity
-4148M	/home/c.c1045890/.conda
 2486M	/home/c.c1045890/MG_tests
 2439M	/home/c.c1045890/git
 1842M	/home/c.c1045890/transient1
 1598M	/home/c.c1045890/namd
-1212M	/home/c.c1045890/.cache
+1249M	/home/c.c1045890/.cache
 1160M	/home/c.c1045890/.vscode-server
 912M	/home/c.c1045890/starccm+
 670M	/home/c.c1045890/stats
@@ -17,8 +16,8 @@
 496M	/home/c.c1045890/GamessUS
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
-301M	/home/c.c1045890/.local
 284M	/home/c.c1045890/nvidia
+264M	/home/c.c1045890/.conda
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
 206M	/home/c.c1045890/.nextflow
@@ -38,6 +37,7 @@
 41M	/home/c.c1045890/.matlab
 38M	/home/c.c1045890/.gem
 29M	/home/c.c1045890/.comsol
+20M	/home/c.c1045890/.local
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
 13M	/home/c.c1045890/training
