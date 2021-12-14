@@ -1,10 +1,11 @@
-91921M	/home/c.c1045890/
+93775M	/home/c.c1045890/
 31787M	/home/c.c1045890/bench
-30212M	/home/c.c1045890/servicedesk_tests
+30214M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 4171M	/home/c.c1045890/.singularity
 2486M	/home/c.c1045890/MG_tests
 2439M	/home/c.c1045890/git
+1933M	/home/c.c1045890/.cmdstanr
 1842M	/home/c.c1045890/transient1
 1598M	/home/c.c1045890/namd
 1275M	/home/c.c1045890/.cache
@@ -16,10 +17,10 @@
 496M	/home/c.c1045890/GamessUS
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
-295M	/home/c.c1045890/R
 284M	/home/c.c1045890/nvidia
 264M	/home/c.c1045890/.conda
 235M	/home/c.c1045890/nwchem
+214M	/home/c.c1045890/R
 209M	/home/c.c1045890/.Mathematica
 206M	/home/c.c1045890/.nextflow
 170M	/home/c.c1045890/.torch
@@ -50,7 +51,6 @@
 6M	/home/c.c1045890/abaqus
 5M	/home/c.c1045890/quantum-espresso
 5M	/home/c.c1045890/.cpanm
-4M	/home/c.c1045890/petar
 4M	/home/c.c1045890/perl5
 3M	/home/c.c1045890/relion
 3M	/home/c.c1045890/ondemand
