@@ -1,12 +1,10 @@
-93775M	/home/c.c1045890/
-31787M	/home/c.c1045890/bench
-30214M	/home/c.c1045890/servicedesk_tests
+72264M	/home/c.c1045890/
+27137M	/home/c.c1045890/bench
+17789M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 4171M	/home/c.c1045890/.singularity
 2486M	/home/c.c1045890/MG_tests
 2439M	/home/c.c1045890/git
-1933M	/home/c.c1045890/.cmdstanr
-1842M	/home/c.c1045890/transient1
 1598M	/home/c.c1045890/namd
 1275M	/home/c.c1045890/.cache
 1160M	/home/c.c1045890/.vscode-server
@@ -18,15 +16,12 @@
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
 284M	/home/c.c1045890/nvidia
-264M	/home/c.c1045890/.conda
 235M	/home/c.c1045890/nwchem
-214M	/home/c.c1045890/R
 209M	/home/c.c1045890/.Mathematica
 206M	/home/c.c1045890/.nextflow
 170M	/home/c.c1045890/.torch
 129M	/home/c.c1045890/myapps
 107M	/home/c.c1045890/xalt
-96M	/home/c.c1045890/test-dysgu
 80M	/home/c.c1045890/deep.learning
 59M	/home/c.c1045890/.keras
 58M	/home/c.c1045890/.mozilla
@@ -42,9 +37,7 @@
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
 13M	/home/c.c1045890/training
-12M	/home/c.c1045890/pyenv-test
 12M	/home/c.c1045890/.nv
-10M	/home/c.c1045890/gamess_scr
 9M	/home/c.c1045890/matlab
 9M	/home/c.c1045890/.eclipse
 8M	/home/c.c1045890/.emacs.d
@@ -58,7 +51,6 @@
 2M	/home/c.c1045890/.mcrCache8.4
 2M	/home/c.c1045890/.config
 1M	/home/c.c1045890/.zinc
-1M	/home/c.c1045890/Wolfram Mathematica
 1M	/home/c.c1045890/.Wolfram
 1M	/home/c.c1045890/.vnc
 1M	/home/c.c1045890/.vim
@@ -68,15 +60,12 @@
 1M	/home/c.c1045890/test_modules
 1M	/home/c.c1045890/tensorflow
 1M	/home/c.c1045890/.swt
-1M	/home/c.c1045890/swc-sql
 1M	/home/c.c1045890/.subversion
 1M	/home/c.c1045890/.stata16
 1M	/home/c.c1045890/.stata15
 1M	/home/c.c1045890/.ssh
-1M	/home/c.c1045890/spark
 1M	/home/c.c1045890/singularity
 1M	/home/c.c1045890/.rstudio-server
-1M	/home/c.c1045890/restart-job
 1M	/home/c.c1045890/.R
 1M	/home/c.c1045890/.qt
 1M	/home/c.c1045890/python
@@ -86,7 +75,6 @@
 1M	/home/c.c1045890/openmp
 1M	/home/c.c1045890/nvvp_workspace
 1M	/home/c.c1045890/machine-learning
-1M	/home/c.c1045890/LSPP
 1M	/home/c.c1045890/low-efficiency-projects
 1M	/home/c.c1045890/.jupyter
 1M	/home/c.c1045890/.java
@@ -107,11 +95,10 @@
 1M	/home/c.c1045890/.dgl
 1M	/home/c.c1045890/Desktop
 1M	/home/c.c1045890/conda-bld
+1M	/home/c.c1045890/.conda
 1M	/home/c.c1045890/.cmake
 1M	/home/c.c1045890/.cfx
 1M	/home/c.c1045890/bin
 1M	/home/c.c1045890/awk-tutorial
-1M	/home/c.c1045890/arcca-python
-1M	/home/c.c1045890/arbiter2
 1M	/home/c.c1045890/.ansys
 1M	/home/c.c1045890/abaqus-test
