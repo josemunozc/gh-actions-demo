@@ -1,8 +1,9 @@
-72324M	/home/c.c1045890/
+76155M	/home/c.c1045890/
 27137M	/home/c.c1045890/bench
 17826M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 4171M	/home/c.c1045890/.singularity
+3831M	/home/c.c1045890/.conda
 2486M	/home/c.c1045890/MG_tests
 2439M	/home/c.c1045890/git
 1598M	/home/c.c1045890/namd
@@ -95,7 +96,6 @@
 1M	/home/c.c1045890/.dgl
 1M	/home/c.c1045890/Desktop
 1M	/home/c.c1045890/conda-bld
-1M	/home/c.c1045890/.conda
 1M	/home/c.c1045890/.cmake
 1M	/home/c.c1045890/.cfx
 1M	/home/c.c1045890/bin
