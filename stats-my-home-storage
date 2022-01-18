@@ -1,12 +1,12 @@
-93052M	/home/c.c1045890/
+101601M	/home/c.c1045890/
 27137M	/home/c.c1045890/bench
 20743M	/home/c.c1045890/servicedesk_tests
 16056M	/home/c.c1045890/.singularity
+12380M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
-3831M	/home/c.c1045890/.conda
 3164M	/home/c.c1045890/.cache
 2486M	/home/c.c1045890/MG_tests
-2439M	/home/c.c1045890/git
+2440M	/home/c.c1045890/git
 1598M	/home/c.c1045890/namd
 1160M	/home/c.c1045890/.vscode-server
 912M	/home/c.c1045890/starccm+
@@ -39,7 +39,7 @@
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
 13M	/home/c.c1045890/training
-12M	/home/c.c1045890/.nv
+13M	/home/c.c1045890/.nv
 9M	/home/c.c1045890/matlab
 9M	/home/c.c1045890/.eclipse
 8M	/home/c.c1045890/.emacs.d
