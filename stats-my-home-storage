@@ -1,8 +1,7 @@
-102043M	/home/c.c1045890/
+87463M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
-21601M	/home/c.c1045890/servicedesk_tests
-16056M	/home/c.c1045890/.singularity
-11855M	/home/c.c1045890/.conda
+21166M	/home/c.c1045890/servicedesk_tests
+13562M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 3164M	/home/c.c1045890/.cache
 2486M	/home/c.c1045890/MG_tests
@@ -21,6 +20,7 @@
 228M	/home/c.c1045890/R
 209M	/home/c.c1045890/.Mathematica
 206M	/home/c.c1045890/.nextflow
+193M	/home/c.c1045890/my_venv
 170M	/home/c.c1045890/.torch
 129M	/home/c.c1045890/myapps
 107M	/home/c.c1045890/xalt
@@ -42,6 +42,7 @@
 16M	/home/c.c1045890/comsol-test
 13M	/home/c.c1045890/training
 13M	/home/c.c1045890/.nv
+12M	/home/c.c1045890/create
 9M	/home/c.c1045890/matlab
 9M	/home/c.c1045890/.eclipse
 8M	/home/c.c1045890/.emacs.d
@@ -68,6 +69,7 @@
 1M	/home/c.c1045890/.stata16
 1M	/home/c.c1045890/.stata15
 1M	/home/c.c1045890/.ssh
+1M	/home/c.c1045890/.singularity
 1M	/home/c.c1045890/singularity
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/.R
