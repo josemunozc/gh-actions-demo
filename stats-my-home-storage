@@ -1,6 +1,6 @@
-92846M	/home/c.c1045890/
+93088M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
-22649M	/home/c.c1045890/servicedesk_tests
+22890M	/home/c.c1045890/servicedesk_tests
 15517M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 3164M	/home/c.c1045890/.cache
@@ -58,6 +58,7 @@
 1M	/home/c.c1045890/.zinc
 1M	/home/c.c1045890/.Wolfram
 1M	/home/c.c1045890/.vnc
+1M	/home/c.c1045890/.visdom
 1M	/home/c.c1045890/.vim
 1M	/home/c.c1045890/valgrind_tests
 1M	/home/c.c1045890/.themes
