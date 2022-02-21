@@ -1,4 +1,4 @@
-93481M	/home/c.c1045890/
+93634M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
 22890M	/home/c.c1045890/servicedesk_tests
 15517M	/home/c.c1045890/.conda
@@ -12,9 +12,9 @@
 912M	/home/c.c1045890/starccm+
 797M	/home/c.c1045890/stats
 611M	/home/c.c1045890/Lammps
+516M	/home/c.c1045890/R
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
-481M	/home/c.c1045890/R
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
 284M	/home/c.c1045890/nvidia
@@ -24,6 +24,7 @@
 193M	/home/c.c1045890/my_venv
 170M	/home/c.c1045890/.torch
 129M	/home/c.c1045890/myapps
+117M	/home/c.c1045890/k8test
 107M	/home/c.c1045890/xalt
 80M	/home/c.c1045890/deep.learning
 59M	/home/c.c1045890/.keras
@@ -54,6 +55,7 @@
 3M	/home/c.c1045890/ondemand
 3M	/home/c.c1045890/.allinea
 2M	/home/c.c1045890/.mcrCache8.4
+2M	/home/c.c1045890/.kube
 2M	/home/c.c1045890/.config
 1M	/home/c.c1045890/.zinc
 1M	/home/c.c1045890/.Wolfram
