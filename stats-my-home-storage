@@ -1,7 +1,7 @@
-93634M	/home/c.c1045890/
+93834M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
 22890M	/home/c.c1045890/servicedesk_tests
-15517M	/home/c.c1045890/.conda
+15712M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 3164M	/home/c.c1045890/.cache
 2486M	/home/c.c1045890/MG_tests
@@ -74,6 +74,7 @@
 1M	/home/c.c1045890/.ssh
 1M	/home/c.c1045890/.singularity
 1M	/home/c.c1045890/singularity
+1M	/home/c.c1045890/seqtk
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/.R
 1M	/home/c.c1045890/.qt
