@@ -1,7 +1,7 @@
-82988M	/home/c.c1045890/
+84644M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
-18209M	/home/c.c1045890/servicedesk_tests
-11106M	/home/c.c1045890/.conda
+18213M	/home/c.c1045890/servicedesk_tests
+12102M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 3164M	/home/c.c1045890/.cache
 2486M	/home/c.c1045890/MG_tests
@@ -9,6 +9,7 @@
 1598M	/home/c.c1045890/namd
 1160M	/home/c.c1045890/.vscode-server
 912M	/home/c.c1045890/starccm+
+814M	/home/c.c1045890/st-venv
 797M	/home/c.c1045890/stats
 611M	/home/c.c1045890/Lammps
 516M	/home/c.c1045890/R
@@ -20,7 +21,6 @@
 284M	/home/c.c1045890/nvidia
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
-199M	/home/c.c1045890/myenv
 193M	/home/c.c1045890/my_venv
 170M	/home/c.c1045890/.torch
 129M	/home/c.c1045890/myapps
@@ -34,6 +34,7 @@
 48M	/home/c.c1045890/wd_test2
 48M	/home/c.c1045890/wd_test
 45M	/home/c.c1045890/.cpan
+44M	/home/c.c1045890/.local
 43M	/home/c.c1045890/openifs
 41M	/home/c.c1045890/.wine
 41M	/home/c.c1045890/.matlab
@@ -42,10 +43,10 @@
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
 15M	/home/c.c1045890/training
-15M	/home/c.c1045890/.local
 15M	/home/c.c1045890/.kube
 13M	/home/c.c1045890/seqtk
 13M	/home/c.c1045890/.nv
+12M	/home/c.c1045890/myenv
 12M	/home/c.c1045890/create
 9M	/home/c.c1045890/matlab
 9M	/home/c.c1045890/.eclipse
@@ -54,8 +55,8 @@
 5M	/home/c.c1045890/quantum-espresso
 5M	/home/c.c1045890/.cpanm
 4M	/home/c.c1045890/perl5
+4M	/home/c.c1045890/ondemand
 3M	/home/c.c1045890/relion
-3M	/home/c.c1045890/ondemand
 3M	/home/c.c1045890/.allinea
 2M	/home/c.c1045890/.mcrCache8.4
 2M	/home/c.c1045890/.config
@@ -77,6 +78,7 @@
 1M	/home/c.c1045890/.singularity
 1M	/home/c.c1045890/singularity
 1M	/home/c.c1045890/.rstudio-server
+1M	/home/c.c1045890/R-Rstudio
 1M	/home/c.c1045890/.R
 1M	/home/c.c1045890/.qt
 1M	/home/c.c1045890/python
