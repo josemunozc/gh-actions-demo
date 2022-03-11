@@ -1,6 +1,6 @@
-95379M	/home/c.c1045890/
+95456M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
-24126M	/home/c.c1045890/servicedesk_tests
+24129M	/home/c.c1045890/servicedesk_tests
 12102M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 3357M	/home/c.c1045890/.singularity
@@ -29,6 +29,7 @@
 128M	/home/c.c1045890/k8test
 107M	/home/c.c1045890/xalt
 80M	/home/c.c1045890/deep.learning
+74M	/home/c.c1045890/.openmodelica
 72M	/home/c.c1045890/circrna-test
 59M	/home/c.c1045890/.keras
 58M	/home/c.c1045890/.mozilla
@@ -89,7 +90,6 @@
 1M	/home/c.c1045890/.parallel
 1M	/home/c.c1045890/.oracle_jre_usage
 1M	/home/c.c1045890/openmp
-1M	/home/c.c1045890/.openmodelica
 1M	/home/c.c1045890/nvvp_workspace
 1M	/home/c.c1045890/machine-learning
 1M	/home/c.c1045890/low-efficiency-projects
