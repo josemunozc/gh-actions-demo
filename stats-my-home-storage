@@ -1,6 +1,6 @@
-95456M	/home/c.c1045890/
+95541M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
-24129M	/home/c.c1045890/servicedesk_tests
+24131M	/home/c.c1045890/servicedesk_tests
 12102M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 3357M	/home/c.c1045890/.singularity
@@ -11,8 +11,8 @@
 1392M	/home/c.c1045890/bitan-venv
 1160M	/home/c.c1045890/.vscode-server
 912M	/home/c.c1045890/starccm+
+824M	/home/c.c1045890/stats
 814M	/home/c.c1045890/st-venv
-797M	/home/c.c1045890/stats
 611M	/home/c.c1045890/Lammps
 516M	/home/c.c1045890/R
 512M	/home/c.c1045890/OpenFOAM
@@ -25,11 +25,11 @@
 209M	/home/c.c1045890/.Mathematica
 193M	/home/c.c1045890/my_venv
 170M	/home/c.c1045890/.torch
+144M	/home/c.c1045890/.openmodelica
 129M	/home/c.c1045890/myapps
 128M	/home/c.c1045890/k8test
 107M	/home/c.c1045890/xalt
 80M	/home/c.c1045890/deep.learning
-74M	/home/c.c1045890/.openmodelica
 72M	/home/c.c1045890/circrna-test
 59M	/home/c.c1045890/.keras
 58M	/home/c.c1045890/.mozilla
@@ -48,7 +48,6 @@
 16M	/home/c.c1045890/comsol-test
 15M	/home/c.c1045890/training
 15M	/home/c.c1045890/.kube
-13M	/home/c.c1045890/seqtk
 13M	/home/c.c1045890/.nv
 12M	/home/c.c1045890/myenv
 12M	/home/c.c1045890/create
