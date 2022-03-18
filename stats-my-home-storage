@@ -1,6 +1,6 @@
-81951M	/home/c.c1045890/
+81111M	/home/c.c1045890/
 27150M	/home/c.c1045890/bench
-23326M	/home/c.c1045890/servicedesk_tests
+22976M	/home/c.c1045890/servicedesk_tests
 7165M	/home/c.c1045890/ansys
 3357M	/home/c.c1045890/.singularity
 3164M	/home/c.c1045890/.cache
@@ -11,7 +11,6 @@
 912M	/home/c.c1045890/starccm+
 824M	/home/c.c1045890/stats
 611M	/home/c.c1045890/Lammps
-516M	/home/c.c1045890/R
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
 369M	/home/c.c1045890/intel_tutorials
@@ -49,9 +48,9 @@
 8M	/home/c.c1045890/.emacs.d
 6M	/home/c.c1045890/abaqus
 5M	/home/c.c1045890/quantum-espresso
+5M	/home/c.c1045890/ondemand
 5M	/home/c.c1045890/.cpanm
 4M	/home/c.c1045890/perl5
-4M	/home/c.c1045890/ondemand
 3M	/home/c.c1045890/relion
 3M	/home/c.c1045890/.allinea
 2M	/home/c.c1045890/.mcrCache8.4
