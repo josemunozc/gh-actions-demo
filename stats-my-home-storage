@@ -1,6 +1,6 @@
-104959M	/home/c.c1045890/
+105107M	/home/c.c1045890/
 27155M	/home/c.c1045890/bench
-23633M	/home/c.c1045890/servicedesk_tests
+23773M	/home/c.c1045890/servicedesk_tests
 16660M	/home/c.c1045890/.singularity
 11590M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
@@ -9,7 +9,7 @@
 2441M	/home/c.c1045890/git
 1598M	/home/c.c1045890/namd
 912M	/home/c.c1045890/starccm+
-824M	/home/c.c1045890/stats
+832M	/home/c.c1045890/stats
 611M	/home/c.c1045890/Lammps
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
@@ -74,6 +74,7 @@
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/R-Rstudio
 1M	/home/c.c1045890/.R
+1M	/home/c.c1045890/R
 1M	/home/c.c1045890/.qt
 1M	/home/c.c1045890/python
 1M	/home/c.c1045890/.pki
