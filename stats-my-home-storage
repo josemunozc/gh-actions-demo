@@ -1,4 +1,4 @@
-105107M	/home/c.c1045890/
+105112M	/home/c.c1045890/
 27155M	/home/c.c1045890/bench
 23773M	/home/c.c1045890/servicedesk_tests
 16660M	/home/c.c1045890/.singularity
@@ -50,6 +50,7 @@
 5M	/home/c.c1045890/quantum-espresso
 5M	/home/c.c1045890/ondemand
 5M	/home/c.c1045890/.cpanm
+5M	/home/c.c1045890/cfxtest
 4M	/home/c.c1045890/perl5
 3M	/home/c.c1045890/relion
 3M	/home/c.c1045890/.allinea
