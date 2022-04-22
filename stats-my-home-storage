@@ -1,6 +1,6 @@
-95076M	/home/c.c1045890/
+95045M	/home/c.c1045890/
 27155M	/home/c.c1045890/bench
-26894M	/home/c.c1045890/servicedesk_tests
+26899M	/home/c.c1045890/servicedesk_tests
 11590M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 3166M	/home/c.c1045890/.cache
@@ -21,15 +21,16 @@
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
 170M	/home/c.c1045890/.torch
-144M	/home/c.c1045890/.openmodelica
 129M	/home/c.c1045890/myapps
 129M	/home/c.c1045890/k8test
 107M	/home/c.c1045890/xalt
+90M	/home/c.c1045890/.openmodelica
 80M	/home/c.c1045890/deep.learning
 72M	/home/c.c1045890/circrna-test
 59M	/home/c.c1045890/.keras
 58M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
+55M	/home/c.c1045890/Modelica 4.0.0+maint.om
 53M	/home/c.c1045890/comsol
 45M	/home/c.c1045890/.cpan
 44M	/home/c.c1045890/.local
@@ -37,7 +38,6 @@
 41M	/home/c.c1045890/.wine
 41M	/home/c.c1045890/.matlab
 38M	/home/c.c1045890/.gem
-37M	/home/c.c1045890/.openmodelica-backup2
 29M	/home/c.c1045890/.comsol
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
@@ -87,6 +87,7 @@
 1M	/home/c.c1045890/.oracle_jre_usage
 1M	/home/c.c1045890/openmp
 1M	/home/c.c1045890/nvvp_workspace
+1M	/home/c.c1045890/ModelicaServices 4.0.0+maint.om
 1M	/home/c.c1045890/machine-learning
 1M	/home/c.c1045890/low-efficiency-projects
 1M	/home/c.c1045890/.jupyter
@@ -108,6 +109,7 @@
 1M	/home/c.c1045890/.dgl
 1M	/home/c.c1045890/Desktop
 1M	/home/c.c1045890/conda-bld
+1M	/home/c.c1045890/Complex 4.0.0+maint.om
 1M	/home/c.c1045890/.cmake
 1M	/home/c.c1045890/.cfx
 1M	/home/c.c1045890/bin
