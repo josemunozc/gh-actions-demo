@@ -1,8 +1,9 @@
-93112M	/home/c.c1045890/
-27860M	/home/c.c1045890/bench
+98329M	/home/c.c1045890/
+27869M	/home/c.c1045890/bench
 26899M	/home/c.c1045890/servicedesk_tests
 8951M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
+5214M	/home/c.c1045890/abaqus
 3166M	/home/c.c1045890/.cache
 2895M	/home/c.c1045890/python2022-venv
 2486M	/home/c.c1045890/MG_tests
@@ -49,7 +50,6 @@
 9M	/home/c.c1045890/.eclipse
 8M	/home/c.c1045890/.emacs.d
 6M	/home/c.c1045890/ondemand
-6M	/home/c.c1045890/abaqus
 5M	/home/c.c1045890/quantum-espresso
 5M	/home/c.c1045890/petar
 5M	/home/c.c1045890/.cpanm
