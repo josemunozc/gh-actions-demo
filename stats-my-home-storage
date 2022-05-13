@@ -1,6 +1,6 @@
-100045M	/home/c.c1045890/
-29255M	/home/c.c1045890/bench
-26904M	/home/c.c1045890/servicedesk_tests
+100131M	/home/c.c1045890/
+29317M	/home/c.c1045890/bench
+26956M	/home/c.c1045890/servicedesk_tests
 10520M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 5214M	/home/c.c1045890/abaqus
@@ -39,7 +39,6 @@
 41M	/home/c.c1045890/.wine
 41M	/home/c.c1045890/.matlab
 38M	/home/c.c1045890/.gem
-29M	/home/c.c1045890/R
 29M	/home/c.c1045890/.comsol
 20M	/home/c.c1045890/.cpdb
 16M	/home/c.c1045890/comsol-test
@@ -80,6 +79,7 @@
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/R-Rstudio
 1M	/home/c.c1045890/.R
+1M	/home/c.c1045890/R
 1M	/home/c.c1045890/.qt
 1M	/home/c.c1045890/.pki
 1M	/home/c.c1045890/.pip
