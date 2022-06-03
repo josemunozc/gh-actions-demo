@@ -1,14 +1,15 @@
-112542M	/home/c.c1045890/
+114976M	/home/c.c1045890/
 31912M	/home/c.c1045890/bench
 27618M	/home/c.c1045890/servicedesk_tests
-18783M	/home/c.c1045890/.conda
+20423M	/home/c.c1045890/.conda
 7165M	/home/c.c1045890/ansys
 5214M	/home/c.c1045890/abaqus
-3162M	/home/c.c1045890/.cache
+3179M	/home/c.c1045890/.cache
 2895M	/home/c.c1045890/python2022-venv
 2486M	/home/c.c1045890/MG_tests
 2459M	/home/c.c1045890/git
 1598M	/home/c.c1045890/namd
+965M	/home/c.c1045890/deep.learning
 912M	/home/c.c1045890/starccm+
 832M	/home/c.c1045890/stats
 643M	/home/c.c1045890/.keras
@@ -22,7 +23,6 @@
 284M	/home/c.c1045890/nvidia
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
-190M	/home/c.c1045890/deep.learning
 172M	/home/c.c1045890/.vscode-server
 170M	/home/c.c1045890/.torch
 129M	/home/c.c1045890/myapps
