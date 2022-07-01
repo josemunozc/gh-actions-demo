@@ -1,10 +1,10 @@
-130015M	/home/c.c1045890/
-46495M	/home/c.c1045890/bench
+130026M	/home/c.c1045890/
+46501M	/home/c.c1045890/bench
 27826M	/home/c.c1045890/servicedesk_tests
 20423M	/home/c.c1045890/.conda
 7188M	/home/c.c1045890/ansys
 5214M	/home/c.c1045890/abaqus
-3180M	/home/c.c1045890/.cache
+3183M	/home/c.c1045890/.cache
 2895M	/home/c.c1045890/python2022-venv
 2486M	/home/c.c1045890/MG_tests
 2460M	/home/c.c1045890/git
@@ -32,7 +32,7 @@
 90M	/home/c.c1045890/.openmodelica
 75M	/home/c.c1045890/R
 72M	/home/c.c1045890/circrna-test
-58M	/home/c.c1045890/.mozilla
+59M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
 55M	/home/c.c1045890/Modelica 4.0.0+maint.om
 53M	/home/c.c1045890/comsol
@@ -80,6 +80,7 @@
 1M	/home/c.c1045890/.ssh
 1M	/home/c.c1045890/.singularity
 1M	/home/c.c1045890/singularity
+1M	/home/c.c1045890/.sanconf
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/R-Rstudio
 1M	/home/c.c1045890/.R
