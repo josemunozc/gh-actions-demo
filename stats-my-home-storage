@@ -1,7 +1,7 @@
-144060M	/home/c.c1045890/
+132703M	/home/c.c1045890/
 46501M	/home/c.c1045890/bench
-37080M	/home/c.c1045890/servicedesk_tests
-23723M	/home/c.c1045890/.conda
+37118M	/home/c.c1045890/servicedesk_tests
+13344M	/home/c.c1045890/.conda
 7228M	/home/c.c1045890/ansys
 5214M	/home/c.c1045890/abaqus
 3827M	/home/c.c1045890/.cache
@@ -9,7 +9,6 @@
 2486M	/home/c.c1045890/MG_tests
 2460M	/home/c.c1045890/git
 1598M	/home/c.c1045890/namd
-1058M	/home/c.c1045890/R
 966M	/home/c.c1045890/deep.learning
 912M	/home/c.c1045890/starccm+
 832M	/home/c.c1045890/stats
@@ -38,6 +37,7 @@
 53M	/home/c.c1045890/comsol
 45M	/home/c.c1045890/.cpan
 44M	/home/c.c1045890/.local
+43M	/home/c.c1045890/R
 43M	/home/c.c1045890/openifs
 41M	/home/c.c1045890/.wine
 41M	/home/c.c1045890/.matlab
@@ -72,6 +72,7 @@
 1M	/home/c.c1045890/.themes
 1M	/home/c.c1045890/.texlive2012
 1M	/home/c.c1045890/test_modules
+1M	/home/c.c1045890/test
 1M	/home/c.c1045890/tensorflow
 1M	/home/c.c1045890/.swt
 1M	/home/c.c1045890/.subversion
