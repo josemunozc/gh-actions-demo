@@ -1,4 +1,4 @@
-132835M	/home/c.c1045890/
+133039M	/home/c.c1045890/
 46501M	/home/c.c1045890/bench
 37118M	/home/c.c1045890/servicedesk_tests
 13344M	/home/c.c1045890/.conda
@@ -18,12 +18,12 @@
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
 369M	/home/c.c1045890/intel_tutorials
+355M	/home/c.c1045890/.vscode-server
+330M	/home/c.c1045890/nvidia
 325M	/home/c.c1045890/.m2
-311M	/home/c.c1045890/nvidia
 293M	/home/c.c1045890/.nextflow
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
-172M	/home/c.c1045890/.vscode-server
 170M	/home/c.c1045890/.torch
 144M	/home/c.c1045890/.star-16.04.007
 129M	/home/c.c1045890/myapps
@@ -53,8 +53,8 @@
 13M	/home/c.c1045890/.nv
 12M	/home/c.c1045890/create
 9M	/home/c.c1045890/matlab
+8M	/home/c.c1045890/ondemand
 8M	/home/c.c1045890/.emacs.d
-7M	/home/c.c1045890/ondemand
 5M	/home/c.c1045890/quantum-espresso
 5M	/home/c.c1045890/petar
 5M	/home/c.c1045890/.cpanm
@@ -76,6 +76,7 @@
 1M	/home/c.c1045890/tensorflow
 1M	/home/c.c1045890/.swt
 1M	/home/c.c1045890/.subversion
+1M	/home/c.c1045890/.stata17
 1M	/home/c.c1045890/.stata16
 1M	/home/c.c1045890/.stata15
 1M	/home/c.c1045890/.ssh
