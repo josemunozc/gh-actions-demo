@@ -1,6 +1,6 @@
-138777M	/home/c.c1045890/
+139095M	/home/c.c1045890/
 46501M	/home/c.c1045890/bench
-37118M	/home/c.c1045890/servicedesk_tests
+37435M	/home/c.c1045890/servicedesk_tests
 19108M	/home/c.c1045890/.conda
 7228M	/home/c.c1045890/ansys
 5214M	/home/c.c1045890/abaqus
@@ -63,6 +63,7 @@
 3M	/home/c.c1045890/relion
 3M	/home/c.c1045890/.allinea
 2M	/home/c.c1045890/.mcrCache8.4
+2M	/home/c.c1045890/.java
 2M	/home/c.c1045890/.config
 1M	/home/c.c1045890/.zinc
 1M	/home/c.c1045890/.Wolfram
@@ -98,11 +99,12 @@
 1M	/home/c.c1045890/machine-learning
 1M	/home/c.c1045890/low-efficiency-projects
 1M	/home/c.c1045890/.jupyter
-1M	/home/c.c1045890/.java
 1M	/home/c.c1045890/.ipython
 1M	/home/c.c1045890/.ipynb_checkpoints
 1M	/home/c.c1045890/intel
 1M	/home/c.c1045890/inputFiles
+1M	/home/c.c1045890/.igv
+1M	/home/c.c1045890/igv
 1M	/home/c.c1045890/.icons
 1M	/home/c.c1045890/.horovod
 1M	/home/c.c1045890/HarvestYourData2
