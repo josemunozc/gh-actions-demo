@@ -1,4 +1,4 @@
-140764M	/home/c.c1045890/
+140766M	/home/c.c1045890/
 46676M	/home/c.c1045890/bench
 38126M	/home/c.c1045890/servicedesk_tests
 19829M	/home/c.c1045890/.conda
@@ -36,8 +36,8 @@
 56M	/home/c.c1045890/.ivy2
 55M	/home/c.c1045890/Modelica 4.0.0+maint.om
 53M	/home/c.c1045890/comsol
+45M	/home/c.c1045890/.local
 45M	/home/c.c1045890/.cpan
-44M	/home/c.c1045890/.local
 43M	/home/c.c1045890/R
 43M	/home/c.c1045890/openifs
 41M	/home/c.c1045890/.wine
@@ -64,6 +64,7 @@
 3M	/home/c.c1045890/.allinea
 2M	/home/c.c1045890/.mcrCache8.4
 2M	/home/c.c1045890/.java
+2M	/home/c.c1045890/fluent-test
 2M	/home/c.c1045890/.config
 1M	/home/c.c1045890/.zinc
 1M	/home/c.c1045890/.Wolfram
