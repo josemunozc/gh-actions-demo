@@ -1,21 +1,17 @@
-146305M	/home/c.c1045890/
+116779M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
-38490M	/home/c.c1045890/servicedesk_tests
-22057M	/home/c.c1045890/.conda
+33917M	/home/c.c1045890/servicedesk_tests
 7230M	/home/c.c1045890/ansys
+6522M	/home/c.c1045890/.conda
 5214M	/home/c.c1045890/abaqus
-3828M	/home/c.c1045890/.cache
-2895M	/home/c.c1045890/python2022-venv
 2538M	/home/c.c1045890/git
 2486M	/home/c.c1045890/MG_tests
 1598M	/home/c.c1045890/namd
-966M	/home/c.c1045890/deep.learning
 912M	/home/c.c1045890/starccm+
+889M	/home/c.c1045890/deep.learning
 832M	/home/c.c1045890/stats
 643M	/home/c.c1045890/.keras
-611M	/home/c.c1045890/Lammps
 561M	/home/c.c1045890/python
-556M	/home/c.c1045890/.vscode-server
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
 369M	/home/c.c1045890/intel_tutorials
@@ -24,6 +20,7 @@
 293M	/home/c.c1045890/.nextflow
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
+186M	/home/c.c1045890/Lammps
 170M	/home/c.c1045890/.torch
 144M	/home/c.c1045890/.star-16.04.007
 129M	/home/c.c1045890/myapps
@@ -32,11 +29,10 @@
 90M	/home/c.c1045890/.openmodelica
 87M	/home/c.c1045890/test
 72M	/home/c.c1045890/circrna-test
+70M	/home/c.c1045890/.cache
 59M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
-55M	/home/c.c1045890/Modelica 4.0.0+maint.om
 53M	/home/c.c1045890/comsol
-45M	/home/c.c1045890/.local
 45M	/home/c.c1045890/.cpan
 43M	/home/c.c1045890/openifs
 41M	/home/c.c1045890/.wine
@@ -96,9 +92,9 @@
 1M	/home/c.c1045890/openmp
 1M	/home/c.c1045890/nvvp_workspace
 1M	/home/c.c1045890/.nsightsystems
-1M	/home/c.c1045890/ModelicaServices 4.0.0+maint.om
 1M	/home/c.c1045890/machine-learning
 1M	/home/c.c1045890/low-efficiency-projects
+1M	/home/c.c1045890/.local
 1M	/home/c.c1045890/.jupyter
 1M	/home/c.c1045890/.ipython
 1M	/home/c.c1045890/.ipynb_checkpoints
