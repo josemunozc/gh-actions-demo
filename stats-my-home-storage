@@ -1,4 +1,4 @@
-120018M	/home/c.c1045890/
+120029M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 33917M	/home/c.c1045890/servicedesk_tests
 9741M	/home/c.c1045890/.conda
@@ -52,6 +52,7 @@
 9M	/home/c.c1045890/ondemand
 9M	/home/c.c1045890/matlab
 8M	/home/c.c1045890/.emacs.d
+7M	/home/c.c1045890/.config
 5M	/home/c.c1045890/quantum-espresso
 5M	/home/c.c1045890/petar
 5M	/home/c.c1045890/.cpanm
@@ -62,7 +63,8 @@
 2M	/home/c.c1045890/.mcrCache8.4
 2M	/home/c.c1045890/.java
 2M	/home/c.c1045890/fluent-test
-2M	/home/c.c1045890/.config
+2M	/home/c.c1045890/AnsysDiagnostics_20221007182300
+2M	/home/c.c1045890/.ansys
 1M	/home/c.c1045890/.zinc
 1M	/home/c.c1045890/.Wolfram
 1M	/home/c.c1045890/.vnc
@@ -122,5 +124,4 @@
 1M	/home/c.c1045890/.cfx
 1M	/home/c.c1045890/bin
 1M	/home/c.c1045890/awk-tutorial
-1M	/home/c.c1045890/.ansys
 1M	/home/c.c1045890/abaqus-test
