@@ -1,4 +1,4 @@
-123536M	/home/c.c1045890/
+123522M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 33917M	/home/c.c1045890/servicedesk_tests
 9741M	/home/c.c1045890/.conda
@@ -46,7 +46,6 @@
 16M	/home/c.c1045890/scw1631
 16M	/home/c.c1045890/comsol-test
 15M	/home/c.c1045890/training
-15M	/home/c.c1045890/R
 13M	/home/c.c1045890/.nv
 12M	/home/c.c1045890/create
 11M	/home/c.c1045890/R-Rstudio
@@ -88,6 +87,7 @@
 1M	/home/c.c1045890/.sanconf
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/.R
+1M	/home/c.c1045890/R
 1M	/home/c.c1045890/.qt
 1M	/home/c.c1045890/.pki
 1M	/home/c.c1045890/.pip
