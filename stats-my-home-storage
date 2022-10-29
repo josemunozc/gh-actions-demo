@@ -1,4 +1,4 @@
-127036M	/home/c.c1045890/
+127332M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 35012M	/home/c.c1045890/servicedesk_tests
 9741M	/home/c.c1045890/.conda
@@ -21,6 +21,7 @@
 325M	/home/c.c1045890/.m2
 309M	/home/c.c1045890/nvidia
 293M	/home/c.c1045890/.nextflow
+272M	/home/c.c1045890/training-tests
 235M	/home/c.c1045890/nwchem
 209M	/home/c.c1045890/.Mathematica
 186M	/home/c.c1045890/Lammps
@@ -74,7 +75,6 @@
 1M	/home/c.c1045890/.visdom
 1M	/home/c.c1045890/.vim
 1M	/home/c.c1045890/valgrind_tests
-1M	/home/c.c1045890/training-tests
 1M	/home/c.c1045890/.themes
 1M	/home/c.c1045890/.texlive2012
 1M	/home/c.c1045890/test_tensorboard
