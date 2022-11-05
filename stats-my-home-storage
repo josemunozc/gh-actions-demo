@@ -1,6 +1,6 @@
-127704M	/home/c.c1045890/
+128193M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
-35012M	/home/c.c1045890/servicedesk_tests
+35130M	/home/c.c1045890/servicedesk_tests
 9741M	/home/c.c1045890/.conda
 7230M	/home/c.c1045890/ansys
 5697M	/home/c.c1045890/abaqus
@@ -17,6 +17,7 @@
 561M	/home/c.c1045890/python
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
+372M	/home/c.c1045890/singularity
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
 309M	/home/c.c1045890/nvidia
@@ -87,7 +88,6 @@
 1M	/home/c.c1045890/.stata15
 1M	/home/c.c1045890/.ssh
 1M	/home/c.c1045890/.singularity
-1M	/home/c.c1045890/singularity
 1M	/home/c.c1045890/.sanconf
 1M	/home/c.c1045890/.rstudio-server
 1M	/home/c.c1045890/.R
