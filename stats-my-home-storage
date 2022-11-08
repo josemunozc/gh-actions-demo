@@ -1,4 +1,4 @@
-128193M	/home/c.c1045890/
+130214M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 35130M	/home/c.c1045890/servicedesk_tests
 9741M	/home/c.c1045890/.conda
@@ -7,6 +7,7 @@
 3506M	/home/c.c1045890/venv
 2538M	/home/c.c1045890/git
 2486M	/home/c.c1045890/MG_tests
+2393M	/home/c.c1045890/singularity
 1598M	/home/c.c1045890/namd
 912M	/home/c.c1045890/starccm+
 889M	/home/c.c1045890/deep.learning
@@ -17,7 +18,6 @@
 561M	/home/c.c1045890/python
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
-372M	/home/c.c1045890/singularity
 369M	/home/c.c1045890/intel_tutorials
 325M	/home/c.c1045890/.m2
 309M	/home/c.c1045890/nvidia
@@ -99,6 +99,7 @@
 1M	/home/c.c1045890/openmp
 1M	/home/c.c1045890/nvvp_workspace
 1M	/home/c.c1045890/.nsightsystems
+1M	/home/c.c1045890/.mono
 1M	/home/c.c1045890/machine-learning
 1M	/home/c.c1045890/low-efficiency-projects
 1M	/home/c.c1045890/.local
