@@ -1,13 +1,13 @@
-130214M	/home/c.c1045890/
+133937M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 35130M	/home/c.c1045890/servicedesk_tests
-9741M	/home/c.c1045890/.conda
+12349M	/home/c.c1045890/.conda
 7230M	/home/c.c1045890/ansys
 5697M	/home/c.c1045890/abaqus
+3507M	/home/c.c1045890/singularity
 3506M	/home/c.c1045890/venv
 2538M	/home/c.c1045890/git
 2486M	/home/c.c1045890/MG_tests
-2393M	/home/c.c1045890/singularity
 1598M	/home/c.c1045890/namd
 912M	/home/c.c1045890/starccm+
 889M	/home/c.c1045890/deep.learning
@@ -54,7 +54,7 @@
 13M	/home/c.c1045890/.nv
 12M	/home/c.c1045890/create
 11M	/home/c.c1045890/R-Rstudio
-10M	/home/c.c1045890/ondemand
+11M	/home/c.c1045890/ondemand
 9M	/home/c.c1045890/matlab
 8M	/home/c.c1045890/.emacs.d
 7M	/home/c.c1045890/.config
@@ -120,6 +120,7 @@
 1M	/home/c.c1045890/.fltk
 1M	/home/c.c1045890/.elinks
 1M	/home/c.c1045890/Downloads
+1M	/home/c.c1045890/.dotnet
 1M	/home/c.c1045890/Documents
 1M	/home/c.c1045890/.dgl
 1M	/home/c.c1045890/Desktop
