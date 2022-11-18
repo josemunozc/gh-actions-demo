@@ -1,4 +1,4 @@
-140052M	/home/c.c1045890/
+141267M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 35130M	/home/c.c1045890/servicedesk_tests
 12349M	/home/c.c1045890/.conda
@@ -9,13 +9,14 @@
 2538M	/home/c.c1045890/git
 2486M	/home/c.c1045890/MG_tests
 1598M	/home/c.c1045890/namd
+1204M	/home/c.c1045890/.debug
 912M	/home/c.c1045890/starccm+
 889M	/home/c.c1045890/deep.learning
 832M	/home/c.c1045890/stats
 788M	/home/c.c1045890/.vscode-server
 643M	/home/c.c1045890/.keras
 630M	/home/c.c1045890/R
-591M	/home/c.c1045890/.debug
+612M	/home/c.c1045890/mkl-test
 561M	/home/c.c1045890/python
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
@@ -56,7 +57,6 @@
 12M	/home/c.c1045890/create
 11M	/home/c.c1045890/R-Rstudio
 11M	/home/c.c1045890/ondemand
-11M	/home/c.c1045890/mkl-test
 9M	/home/c.c1045890/matlab
 8M	/home/c.c1045890/.emacs.d
 7M	/home/c.c1045890/.config
