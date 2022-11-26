@@ -1,7 +1,7 @@
-150329M	/home/c.c1045890/
+152734M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 35130M	/home/c.c1045890/servicedesk_tests
-15358M	/home/c.c1045890/.conda
+17763M	/home/c.c1045890/.conda
 9001M	/home/c.c1045890/singularity
 7230M	/home/c.c1045890/ansys
 5725M	/home/c.c1045890/Mask_RCNN
@@ -127,6 +127,7 @@
 1M	/home/c.c1045890/Documents
 1M	/home/c.c1045890/.dgl
 1M	/home/c.c1045890/Desktop
+1M	/home/c.c1045890/data
 1M	/home/c.c1045890/cuda-workspace
 1M	/home/c.c1045890/conda-bld
 1M	/home/c.c1045890/Complex 4.0.0+maint.om
