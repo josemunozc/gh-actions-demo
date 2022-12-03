@@ -1,7 +1,7 @@
-144521M	/home/c.c1045890/
+144588M	/home/c.c1045890/
 48731M	/home/c.c1045890/bench
 41179M	/home/c.c1045890/servicedesk_tests
-9193M	/home/c.c1045890/.conda
+9260M	/home/c.c1045890/.conda
 9001M	/home/c.c1045890/singularity
 7230M	/home/c.c1045890/ansys
 5697M	/home/c.c1045890/abaqus
@@ -54,9 +54,9 @@
 16M	/home/c.c1045890/comsol-test
 14M	/home/c.c1045890/training
 13M	/home/c.c1045890/.nv
+12M	/home/c.c1045890/ondemand
 12M	/home/c.c1045890/create
 11M	/home/c.c1045890/R-Rstudio
-11M	/home/c.c1045890/ondemand
 9M	/home/c.c1045890/matlab
 8M	/home/c.c1045890/.emacs.d
 7M	/home/c.c1045890/.config
