@@ -1,7 +1,7 @@
-148061M	/home/c.c1045890/
+166414M	/home/c.c1045890/
+53794M	/home/c.c1045890/servicedesk_tests
 48733M	/home/c.c1045890/bench
-41500M	/home/c.c1045890/servicedesk_tests
-12257M	/home/c.c1045890/.conda
+18316M	/home/c.c1045890/.conda
 9001M	/home/c.c1045890/singularity
 7230M	/home/c.c1045890/ansys
 5697M	/home/c.c1045890/abaqus
@@ -38,8 +38,8 @@
 72M	/home/c.c1045890/circrna-test
 59M	/home/c.c1045890/.mozilla
 56M	/home/c.c1045890/.ivy2
+54M	/home/c.c1045890/.cache
 53M	/home/c.c1045890/comsol
-53M	/home/c.c1045890/.cache
 45M	/home/c.c1045890/.cpan
 43M	/home/c.c1045890/openifs
 41M	/home/c.c1045890/.wine
@@ -132,6 +132,7 @@
 1M	/home/c.c1045890/Complex 4.0.0+maint.om
 1M	/home/c.c1045890/.cmake
 1M	/home/c.c1045890/.cfx
+1M	/home/c.c1045890/CATSettings
 1M	/home/c.c1045890/bin
 1M	/home/c.c1045890/awk-tutorial
 1M	/home/c.c1045890/.apptainer
