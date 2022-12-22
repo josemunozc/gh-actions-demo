@@ -1,4 +1,4 @@
-166415M	/home/c.c1045890/
+166419M	/home/c.c1045890/
 53794M	/home/c.c1045890/servicedesk_tests
 48733M	/home/c.c1045890/bench
 18316M	/home/c.c1045890/.conda
@@ -26,7 +26,7 @@
 293M	/home/c.c1045890/.nextflow
 272M	/home/c.c1045890/training-tests
 235M	/home/c.c1045890/nwchem
-209M	/home/c.c1045890/.Mathematica
+214M	/home/c.c1045890/.Mathematica
 186M	/home/c.c1045890/Lammps
 170M	/home/c.c1045890/.torch
 144M	/home/c.c1045890/.star-16.04.007
@@ -73,6 +73,7 @@
 2M	/home/c.c1045890/AnsysDiagnostics_20221007182300
 2M	/home/c.c1045890/.ansys
 1M	/home/c.c1045890/.zinc
+1M	/home/c.c1045890/Wolfram Mathematica
 1M	/home/c.c1045890/.Wolfram
 1M	/home/c.c1045890/.vnc
 1M	/home/c.c1045890/.visdom
