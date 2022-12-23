@@ -1,9 +1,9 @@
-166419M	/home/c.c1045890/
-53794M	/home/c.c1045890/servicedesk_tests
+130523M	/home/c.c1045890/
 48733M	/home/c.c1045890/bench
-18316M	/home/c.c1045890/.conda
+29124M	/home/c.c1045890/servicedesk_tests
 9001M	/home/c.c1045890/singularity
 7230M	/home/c.c1045890/ansys
+6575M	/home/c.c1045890/.conda
 5697M	/home/c.c1045890/abaqus
 3506M	/home/c.c1045890/venv
 2539M	/home/c.c1045890/git
@@ -18,6 +18,7 @@
 643M	/home/c.c1045890/.keras
 630M	/home/c.c1045890/R
 561M	/home/c.c1045890/python
+519M	/home/c.c1045890/R-Rstudio
 512M	/home/c.c1045890/OpenFOAM
 496M	/home/c.c1045890/GamessUS
 369M	/home/c.c1045890/intel_tutorials
@@ -26,7 +27,7 @@
 293M	/home/c.c1045890/.nextflow
 272M	/home/c.c1045890/training-tests
 235M	/home/c.c1045890/nwchem
-214M	/home/c.c1045890/.Mathematica
+219M	/home/c.c1045890/.Mathematica
 186M	/home/c.c1045890/Lammps
 170M	/home/c.c1045890/.torch
 144M	/home/c.c1045890/.star-16.04.007
@@ -56,7 +57,6 @@
 13M	/home/c.c1045890/ondemand
 13M	/home/c.c1045890/.nv
 12M	/home/c.c1045890/create
-11M	/home/c.c1045890/R-Rstudio
 9M	/home/c.c1045890/matlab
 8M	/home/c.c1045890/.emacs.d
 7M	/home/c.c1045890/.config
