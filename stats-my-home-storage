@@ -1,4 +1,4 @@
-130954M	/home/c.c1045890/
+131043M	/home/c.c1045890/
 48733M	/home/c.c1045890/bench
 29124M	/home/c.c1045890/servicedesk_tests
 9001M	/home/c.c1045890/singularity
@@ -6,11 +6,11 @@
 6575M	/home/c.c1045890/.conda
 5697M	/home/c.c1045890/abaqus
 3506M	/home/c.c1045890/venv
-2596M	/home/c.c1045890/git
+2604M	/home/c.c1045890/git
 2486M	/home/c.c1045890/MG_tests
 1598M	/home/c.c1045890/namd
 1252M	/home/c.c1045890/.debug
-1127M	/home/c.c1045890/.vscode-server
+1132M	/home/c.c1045890/.vscode-server
 981M	/home/c.c1045890/stats
 912M	/home/c.c1045890/starccm+
 892M	/home/c.c1045890/mkl-test
@@ -30,12 +30,12 @@
 219M	/home/c.c1045890/.Mathematica
 186M	/home/c.c1045890/Lammps
 170M	/home/c.c1045890/.torch
+166M	/home/c.c1045890/.cache
 144M	/home/c.c1045890/.star-16.04.007
 129M	/home/c.c1045890/myapps
 129M	/home/c.c1045890/k8test
 107M	/home/c.c1045890/xalt
 90M	/home/c.c1045890/.openmodelica
-90M	/home/c.c1045890/.cache
 87M	/home/c.c1045890/test
 72M	/home/c.c1045890/circrna-test
 59M	/home/c.c1045890/.mozilla
