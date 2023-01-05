@@ -1,4 +1,4 @@
-131043M	/home/c.c1045890/
+131339M	/home/c.c1045890/
 48733M	/home/c.c1045890/bench
 29124M	/home/c.c1045890/servicedesk_tests
 9001M	/home/c.c1045890/singularity
@@ -9,8 +9,8 @@
 2604M	/home/c.c1045890/git
 2486M	/home/c.c1045890/MG_tests
 1598M	/home/c.c1045890/namd
+1427M	/home/c.c1045890/.vscode-server
 1252M	/home/c.c1045890/.debug
-1131M	/home/c.c1045890/.vscode-server
 982M	/home/c.c1045890/stats
 912M	/home/c.c1045890/starccm+
 892M	/home/c.c1045890/mkl-test
@@ -119,6 +119,7 @@
 1M	/home/c.c1045890/.gnupg
 1M	/home/c.c1045890/.git-credential-cache
 1M	/home/c.c1045890/gdb
+1M	/home/c.c1045890/.fop
 1M	/home/c.c1045890/.fluentconf
 1M	/home/c.c1045890/.fltk
 1M	/home/c.c1045890/.elinks
