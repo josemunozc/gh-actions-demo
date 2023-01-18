@@ -1,11 +1,10 @@
-131074M	/home/c.c1045890/
+127602M	/home/c.c1045890/
 48733M	/home/c.c1045890/bench
 29124M	/home/c.c1045890/servicedesk_tests
 9001M	/home/c.c1045890/singularity
 7230M	/home/c.c1045890/ansys
 6575M	/home/c.c1045890/.conda
 5697M	/home/c.c1045890/abaqus
-3506M	/home/c.c1045890/venv
 2604M	/home/c.c1045890/git
 2486M	/home/c.c1045890/MG_tests
 1598M	/home/c.c1045890/namd
@@ -53,6 +52,7 @@
 20M	/home/c.c1045890/.kube
 16M	/home/c.c1045890/scw1631
 16M	/home/c.c1045890/comsol-test
+15M	/home/c.c1045890/venv
 14M	/home/c.c1045890/training
 13M	/home/c.c1045890/ondemand
 13M	/home/c.c1045890/.nv
