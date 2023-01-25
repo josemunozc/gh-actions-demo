@@ -1,4 +1,4 @@
-127994M	/home/c.c1045890/
+128004M	/home/c.c1045890/
 48733M	/home/c.c1045890/bench
 29124M	/home/c.c1045890/servicedesk_tests
 9001M	/home/c.c1045890/singularity
@@ -10,7 +10,7 @@
 1598M	/home/c.c1045890/namd
 1252M	/home/c.c1045890/.debug
 1131M	/home/c.c1045890/.vscode-server
-1024M	/home/c.c1045890/stats
+1028M	/home/c.c1045890/stats
 912M	/home/c.c1045890/starccm+
 892M	/home/c.c1045890/mkl-test
 889M	/home/c.c1045890/deep.learning
@@ -56,9 +56,9 @@
 13M	/home/c.c1045890/ondemand
 13M	/home/c.c1045890/.nv
 12M	/home/c.c1045890/create
+11M	/home/c.c1045890/.config
 9M	/home/c.c1045890/matlab
 8M	/home/c.c1045890/.emacs.d
-7M	/home/c.c1045890/.config
 6M	/home/c.c1045890/.allinea
 5M	/home/c.c1045890/quantum-espresso
 5M	/home/c.c1045890/petar
